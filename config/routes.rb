@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  #get 'posts/dashboard'
+  get 'posts/dashboard'
   get 'posts/index'
   get 'posts/create'
 
